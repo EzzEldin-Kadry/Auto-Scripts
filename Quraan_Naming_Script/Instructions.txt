@@ -1,0 +1,7 @@
+For the code to run 
+-You need to have all surahs of quraan in the file_path variable
+-You don't have to move any file that is not related to surahs in that file file_path unless it's an mp3 file
+-All the surah must be in that path, if not, the code will fail
+-You need to have all surahs names in a txt file and in the txt_path variable
+-Every surah name in that txt file must be in a separte line
+-If you execute this code, there is not return back, you can't get the old names again
